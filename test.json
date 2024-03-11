@@ -271,5 +271,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "./custom_spider.jar"
+  "spider": "./custom_spider.jar;md5;6a77140c25470026f08522e50103cf8d"
 }
