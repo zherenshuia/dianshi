@@ -80,8 +80,8 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "type": 1,
+      "url": "https://www.yemu.xyz/?url="
     }
   ],
   "flags": [
