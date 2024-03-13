@@ -2,6 +2,15 @@
   "sites": [
     {
       "key": "spider",
+      "name": "玩偶姐姐",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "spider",
       "name": "Miss",
       "type": 3,
       "api": "csp_Miss",
