@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "spider",
-      "name": "玩偶姐姐",
+      "key": "Doll",
+      "name": "Doll",
       "type": 3,
       "api": "csp_Doll",
       "searchable": 1,
